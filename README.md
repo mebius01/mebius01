@@ -1,8 +1,4 @@
-<h1 align="left">Hey 👋 I'm Ivan </h1>
-
-###
-
-<h2 align="left">About me</h2>
+<h1 align="left">Hey! I'm Ivan </h1>
 
 ###
 
