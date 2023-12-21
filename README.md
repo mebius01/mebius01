@@ -6,30 +6,36 @@
 
 ###
 
-<h2 align="left">Skills</h2>
+<h4 align="left">Skills</h4>
 
-###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgres" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="ts" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku" />
+<div>
+  <img src="img/debian.png" height="40" alt="debian"/>
+  <img src="img/bash.svg" height="40" alt="bash"/> 
+  <img src="img/git.svg" height="40" alt="git" />
+  <img src="img/python.svg" height="40" alt="python" /> 
+  <img src="img/django.svg" height="40" alt="django" /> 
+  <img src="img/heroku.svg" height="40" alt="heroku" /> 
+  <img src="img/js.svg" height="40" alt="js" /> 
+  <img src="img/html.svg" height="40" alt="html" /> 
+  <img src="img/css.svg" height="40" alt="css" /> 
+  <img src="img/sass.svg" height="40" alt="sass" /> 
+  <img src="img/vue.svg" height="40" alt="vuejs" /> 
+  <img src="img/nuxt.svg" height="40" alt="nuxtjs" /> 
+  <img src="img/node.svg" height="40" alt="nodejs" /> 
+  <img src="img/express.svg" height="40" alt="express" /> 
+  <img src="img/pg.svg" height="40" alt="postgres" /> 
+  <img src="img/knex.png" height="40" alt="knex" /> 
+  <img src="img/websocket.png" height="40" alt="websocket" />
+  <img src="img/redis.svg" height="40" alt="redis" /> 
+  <img src="img/jest.svg" height="40" alt="jest" /> 
+  <img src="img/ts.svg" height="40" alt="ts" /> 
+  <img src="img/nest.svg" height="40" alt="nestjs" /> 
+  <img src="img/docker.svg" height="40" alt="docker" /> 
+  <img src="img/dokku.png" height="40" alt="dokku" />
+  <img src="img/swagger.png" height="40" alt="swagger" />
+  <img src="img/mongodb.svg" height="40" alt="mongodb" />
+  <img src="img/prisma.png" height="40" alt="prisma" />
+  <!-- <img src="img/graphql.png" height="40" alt="graphql" /> -->
 </div>
 
 ###
