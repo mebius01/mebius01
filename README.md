@@ -1,19 +1,19 @@
-<h1 align="left">Hey! I'm Ivan </h1>
+<h1 align="center">Hey! I'm Ivan </h1>
 
 ###
-
+<div align="left">
 <p> I'm a backend developer, from Ukraine. 
 Being a backend developer for 4 years has allowed me to delve into creating applications across diverse complexities. 
 I thrive on architecting sophisticated yet intuitive systems and revel in designing databases. 
 My passion lies in crafting robust architectures that prioritize efficiency and scalability.
 </p>
-
+</div>
 
 ###
 
-<div>
+<div align="center">
   <a href="https://www.debian.org/" target="_blank">
-    <img src="img/debian.png" height="40" alt="debian"/>
+    <img src="img/debian.png" height="40" alt="debian" />
   </a>
   <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank">
     <img src="img/bash.svg" height="40" alt="bash"/> 
@@ -102,3 +102,11 @@ My passion lies in crafting robust architectures that prioritize efficiency and 
 </div>
 
 ###
+
+<div align="center">
+
+[![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mebius01&theme=default)](http://github.com/mebius01) 
+[![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mebius01&theme=default)](http://github.com/mebius01) [![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mebius01&theme=default&utcOffset=8)](http://github.com/mebius01)
+[![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mebius01&theme=default)](http://github.com/mebius01) [![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mebius01&theme=default)](http://github.com/mebius01)
+
+</div>
