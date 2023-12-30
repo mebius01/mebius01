@@ -105,8 +105,5 @@ My passion lies in crafting robust architectures that prioritize efficiency and 
 
 <div align="center">
 
-[![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mebius01&theme=default)](http://github.com/mebius01) 
-[![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mebius01&theme=default)](http://github.com/mebius01) [![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mebius01&theme=default&utcOffset=8)](http://github.com/mebius01)
-[![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mebius01&theme=default)](http://github.com/mebius01) [![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mebius01&theme=default)](http://github.com/mebius01)
-
+[![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mebius01&theme=default)](http://github.com/mebius01) [![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mebius01&theme=default)](http://github.com/mebius01)
 </div>
