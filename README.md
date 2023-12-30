@@ -1,6 +1,4 @@
-<h1 align="center">Hey! I'm Ivan </h1>
-
----
+<h3 align="left">Hey! I'm Ivan </h3>
 
 <div align="left">
 <p> I'm a backend developer, from Ukraine. 
