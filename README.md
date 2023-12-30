@@ -1,4 +1,4 @@
-<h3 align="left">Hey! I'm Ivan </h3>
+<h2 align="left">Hey! I'm Ivan </h2>
 
 <div align="left">
 <p> I'm a backend developer, from Ukraine. 
