@@ -8,15 +8,12 @@ My passion lies in crafting robust architectures that prioritize efficiency and 
 </p>
 </div>
 
----
 
 <div align="center">
 
 [![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mebius01&theme=default)](http://github.com/mebius01) [![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mebius01&theme=default)](http://github.com/mebius01)
 
 </div>
-
----
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/mebius01/mebius01/main/img/debian.png" height="40" alt="debian" />
